@@ -14,3 +14,9 @@ I'm a software developer who develops on the Adobe AEM platform. I write Java pr
 
 This blog will just be me spilling my guts about whatever development tool I am loving at the moment. 
 
+This is obviously (well, I suppose obvious if you use Jekyll) built with Jekyll. Currently using the default theme, which I will begin customizing out (and probably *blogging* about).
+
+Expect a blog post about Jekyll as well. It's a pretty cool framework and I'll probably write all about my experience throwing this together eventually. 
+
+*fin*
+
