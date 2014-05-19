@@ -3,8 +3,8 @@ name: Todd Develops.
 title: Very Much Blogging. Such Code. 
 email: toddguerra@gmail.com
 description: "Todd M Guerra is an Adobe AEM developer who writes fart jokes and insults in a variety of languages and frameworks in his spare time."
-baseurl: "http://gutsy.github.io/"
-url: "http://gutsy.github.io/"
+baseurl: "https://gutsy.github.io"
+url: "https://gutsy.github.io"
 
 # Build settings
 markdown: kramdown
